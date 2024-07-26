@@ -15,7 +15,7 @@ struct ContentView: View {
             Spacer()
                 ZStack{
                     VStack{
-                    Text("DINA AFTAB")
+                    Text("!DINA AFTAB!")
                         .font(.title)
                         .fontWeight(.black)
                         .foregroundColor(Color(hue: 0.558, saturation: 0.564, brightness: 0.91))
